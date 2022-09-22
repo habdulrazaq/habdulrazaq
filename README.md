@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Hasib Abdulrazaq</h1>
-- 🔭 I’m currently working on [FoodSecurityForecaster](https://github.com/habdulrazaq/FoodSecurityForecaster)
+- 🔭 I’m currently working on [Crop Yield prediction app using Deep Learning](https://github.com/habdulrazaq/FoodSecurityForecaster)
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
