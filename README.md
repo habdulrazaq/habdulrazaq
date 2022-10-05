@@ -2,9 +2,7 @@
 <h1 align="left">Hi, I'm Hasib Abdulrazaq</h1>
 
 - 🔭 I’m currently working on [Crop Yield prediction app using Deep Learning](https://github.com/habdulrazaq/FoodSecurityForecaster)
-
 - 👨‍💻 All of my projects are available at [https://github.com/habdulrazaq](https://github.com/habdulrazaq)
-
 - 📫 Reach me via  **hasibabdulrazaq@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
