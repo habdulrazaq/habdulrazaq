@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm Hasib Abdulrazaq</h1>
 
-- 🔭 I’m currently learning MLOps, Cloud Architecture
+- 🔭 I’m currently learning MLOps, Data Engineering, Cloud Architecture
 - 📫 Reach me via  **hasibabdulrazaq@gmail.com** <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/habdulrazaq">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
