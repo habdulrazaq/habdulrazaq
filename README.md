@@ -18,7 +18,7 @@
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habdulrazaq&layout=compact&theme=city-lights&hide_border=true)](https://github.com/habdulrazaq/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habdulrazaq&layout=compact&theme=dark&hide_border=true&border_radius=1.9)](https://github.com/habdulrazaq/github-readme-stats)
 
      
 <div id="header" align="right">
