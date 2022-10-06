@@ -2,7 +2,9 @@
 <h1 align="left">Hi, I'm Hasib Abdulrazaq</h1>
 
 - 🔭 I’m currently learning MLOps, Data Engineering, Cloud Architecture
-- 📫 Reach me via  **hasibabdulrazaq@gmail.com** <div id="badges" align="left">
+- 📫 Reach me via  **hasibabdulrazaq@gmail.com** 
+
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/habdulrazaq">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,10 +20,8 @@
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habdulrazaq&layout=compact&theme=dark&hide_border=false&border_radius=.1)](https://github.com/habdulrazaq/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habdulrazaq&layout=compact&theme=dark&hide_border=false&border_radius=.1)](https://github.com/habdulrazaq/github-readme-stats) 
+<img alt="codinggif" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" align="center"  width="300" />
      
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="300"/>
-</div>
+ 
 
