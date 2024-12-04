@@ -1,7 +1,8 @@
 # Hi, I'm Hasib Abdulrazaq
 
 <img align="right" width="270" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
-🔭 &nbsp; I’m interested in Data Science, MLOps, Data Engineering, Cloud Architecture 📫 &nbsp; Reach me via  **hasibabdulrazaq@gmail.com** 
+🔭 &nbsp; I’m interested in Data Science, MLOps, Data Engineering, Cloud Architecture 
+📫 &nbsp; Reach me via  **hasibabdulrazaq@gmail.com** 
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/habdulrazaq">
